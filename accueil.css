@@ -6,3 +6,12 @@
     font-size: 1em;
     color: #F97316;
 }
+section, #bottom{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+section div{
+    width: 200px;
+}
